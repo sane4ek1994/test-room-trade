@@ -1,1 +1,1 @@
-// export const selectTimer = state => state.timer
+export const selectTimer = state => state.timer
